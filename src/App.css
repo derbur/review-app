@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.review-app {
+  display: flex;
+  padding: 32px;
+}
+
+.review {
+  margin: 16px;
+}
